@@ -5,4 +5,3 @@
 4. Model training: Logistic Regression
 5. Model evaluation
 6. Save pickle file for future use
-7. 
